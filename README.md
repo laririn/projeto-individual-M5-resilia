@@ -1,0 +1,3 @@
+# Projeto Individual Módulo 5 Resilia
+
+### Sem os métodos nativos do Node de suporte que gerencie as interações com o usuário (como o readline) seria difícil implementar um laço de repetição que seja interrompido pela entrada do usuário de forma adequada na linguagem JavaScript(Node) devido ao Node não suportar nativamente o método prompt(). O readline fornece uma interface fácil de usar para ler dados(streaming) da entrada padrão (stdin), o que é útil para construir interações com o usuário em aplicações de console.
